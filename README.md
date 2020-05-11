@@ -111,3 +111,8 @@ test/           // jest tests
     Intern.test.js
     Manager.test.js
 app.js // Runs the application
+
+
+# Demo - Video
+
+![Demo Video](https://user-images.githubusercontent.com/51222558/81615547-a3c20380-9396-11ea-9769-0740a4902497.gif)
