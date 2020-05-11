@@ -113,6 +113,11 @@ test/           // jest tests
 app.js // Runs the application
 
 
+# Generated Webpage Demo
+
+![Final Output](https://user-images.githubusercontent.com/51222558/81615792-0a472180-9397-11ea-8f33-d748c22fef52.jpg)
+
+
 # Demo - Video
 
 ![Demo Video](https://user-images.githubusercontent.com/51222558/81615547-a3c20380-9396-11ea-9769-0740a4902497.gif)
